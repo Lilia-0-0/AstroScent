@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/astro-scent:latest
+          tags: ghcr.io/lilia-0-0/astro-scent:latest
