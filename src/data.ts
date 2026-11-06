@@ -14,7 +14,6 @@ import jadoreImg from './assets/jadore.webp'
 import rose31Img from './assets/rose31.jpg'
 import blackOrchidImg from './assets/black_orchid.jpg'
 
-// Импорты дополнительных картинок (для галереи)
 import baccarat2 from './assets/baccarat2.webp'; import baccarat3 from './assets/baccarat3.webp'; import baccarat4 from './assets/baccarat4.webp';
 import chance2 from './assets/chance2.webp'; import chance3 from './assets/chance3.webp'; import chance4 from './assets/chance4.webp';
 import coco2 from './assets/coco2.webp'; import coco3 from './assets/coco3.webp'; import coco4 from './assets/coco4.webp';
